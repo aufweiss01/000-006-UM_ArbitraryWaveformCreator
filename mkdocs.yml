@@ -6,8 +6,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Feature description: __concArbitraryWaveformCreator.md    
+  - Feature description: concArbitraryWaveformCreator.md    
   - Usage:
-      - Start feature: __taskStartArbitraryWaveformCreator.md
-      - Create custom waveforms: __taskCreateCustomWaveform.md
-      - Define waveform beahavior: __taskDefineCustomWaveformBehavior.md
+      - Start feature: taskStartArbitraryWaveformCreator.md
+      - Create custom waveforms: taskCreateCustomWaveform.md
+      - Define waveform beahavior: taskDefineCustomWaveformBehavior.md
