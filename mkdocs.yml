@@ -2,4 +2,12 @@ site_name: Arbitrary Waveform Creator
 docs_dir: docs
 theme:
   name: material
-  language: de
+  language: en
+
+nav:
+  - Home: index.md
+  - Feature description: __concArbitraryWaveformCreator.md    
+  - Usage:
+      - Start feature: __taskStartArbitraryWaveformCreator.md
+      - Create custom waveforms: __taskCreateCustomWaveform.md
+      - Define waveform beahavior: __taskDefineCustomWaveformBehavior.md
