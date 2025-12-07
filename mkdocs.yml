@@ -5,7 +5,9 @@ theme:
   language: en
 
 plugins:
-  - pdf-export
+  - search
+  - with-pdf:
+      output_path: document.pdf
 
 nav:
   - Home: index.md
