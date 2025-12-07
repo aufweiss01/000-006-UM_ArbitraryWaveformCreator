@@ -23,6 +23,7 @@ brand: Manufacturer
 ---
 Prerequistes:
 - [The Arbitrary Waveform Creator is open.](taskStartCustomWaveformCreator)
+
 ---
 
 ## Set the number of repetitions
@@ -57,4 +58,5 @@ If endpoint behavoir is set to 'OFF' (default), the respective channel is deacti
 Subsequent tasks:
 - If required, [set a trigger mode for your custom waveform](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_manuals/dl_user_manual/HMC804x_UserManual_de_en_05.pdf).
 - [Activate the channel to apply your custom waveform](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_manuals/dl_user_manual/HMC804x_UserManual_de_en_05.pdf).
+
 ---

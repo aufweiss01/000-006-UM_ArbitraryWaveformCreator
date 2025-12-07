@@ -27,4 +27,5 @@ brand: Manufacturer
 ---
 Subsequent tasks:
 - [Create a custom waveform](taskCreateCustomWaveform)
+
 ---
