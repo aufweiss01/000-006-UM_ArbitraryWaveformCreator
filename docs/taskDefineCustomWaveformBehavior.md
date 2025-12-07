@@ -22,7 +22,7 @@ brand: Manufacturer
 
 ---
 Prerequistes:
-- [The Arbitrary Waveform Creator is open.](taskStartCustomWaveformCreator.md)
+- [The Arbitrary Waveform Creator is open.](taskStartCustomWaveformCreator)
 ---
 
 ## Set the number of repetitions

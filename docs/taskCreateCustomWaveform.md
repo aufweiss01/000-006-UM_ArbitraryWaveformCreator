@@ -22,7 +22,7 @@ brand: Manufacturer
 
 ---
 Prerequistes:
-- [The Arbitrary Waveform Creator is open.](taskStartCustomWaveformCreator.md)
+- [The Arbitrary Waveform Creator is open.](taskStartCustomWaveformCreator)
 ---
 
 ## Select the channel
@@ -67,7 +67,7 @@ You can create and edit up to 512 wavepoints. <!-- Es ist nicht vollständig kla
 
 ---
 Subsequent tasks:
-- If required, [define the custom waveform behavior](taskDefineCustomWaveformBehavior.md).
+- If required, [define the custom waveform behavior](taskDefineCustomWaveformBehavior).
 - If required, [set a trigger mode for your custom waveform](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_manuals/dl_user_manual/HMC804x_UserManual_de_en_05.pdf).
 - [Activate the channel to apply your custom waveform](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_manuals/dl_user_manual/HMC804x_UserManual_de_en_05.pdf).
 ---
