@@ -20,7 +20,7 @@ brand: Manufacturer
 
 ## Function
 
-With the Arbitrary Wafeform Creator you can [create custom waveforms](taskCreateCustomWaveform) (for example step function, saw tooth etc.) and model their behavior according to your specific requirements.
+With the Arbitrary Wafeform Creator you can [create custom waveforms](taskCreateCustomWaveform.md) (for example step function, saw tooth etc.) and model their behavior according to your specific requirements.
 
 You can create custom waveforms on the control panel or an external interface. When saved, the settings are stored for the channel. Additionally, it's possible to store custom waveforms and to import and apply them to other channels. When you activate the respective channel, your custom waveform is applied to its output.
 

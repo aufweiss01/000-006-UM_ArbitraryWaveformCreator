@@ -23,7 +23,7 @@ brand: Manufacturer
 ---
 
 Prerequistes:
-- [The Arbitrary Waveform Creator is open.](taskStartArbitraryWaveformCreator)
+- [The Arbitrary Waveform Creator is open.](taskStartArbitraryWaveformCreator.md)
 
 ---
 
