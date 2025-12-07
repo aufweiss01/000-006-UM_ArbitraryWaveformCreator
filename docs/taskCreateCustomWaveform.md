@@ -23,6 +23,7 @@ brand: Manufacturer
 ---
 
 Prerequistes:
+
 - [The Arbitrary Waveform Creator is open](taskStartArbitraryWaveformCreator.md).
 
 ---
@@ -53,11 +54,11 @@ You can create and edit up to 512 wavepoints. <!-- Es ist nicht vollständig kla
 1. Turn and press the knob to select the appropriate wavepoint.
 1. Press the arrow keys to select the column to edit.
 
-> The following parameters can be set: voltage (<uicontrol>U</uicontrol>), current (<uicontrol>I</uicontrol>), duration (<uicontrol>Time</uicontrol>) and interpolation (<uicontrol>Intp</uicontrol>).
+    > The following parameters can be set: voltage (<uicontrol>U</uicontrol>), current (<uicontrol>I</uicontrol>), duration (<uicontrol>Time</uicontrol>) and interpolation (<uicontrol>Intp</uicontrol>).
 
 4. Turn and press the knob to select the appropriate value.
 
-> You might also type in the values on the numeric keypad and press the knob to confirm.
+    > You might also type in the values on the numeric keypad and press the knob to confirm.
 
 5. Repeat the former steps to create all the required wavepoints.
 
@@ -72,6 +73,7 @@ You can create and edit up to 512 wavepoints. <!-- Es ist nicht vollständig kla
 ---
 
 Subsequent tasks:
+
 - If required, [define the custom waveform behavior](taskDefineCustomWaveformBehavior.md).
 - If required, [set a trigger mode for your custom waveform](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_manuals/dl_user_manual/HMC804x_UserManual_de_en_05.pdf).
 - [Activate the channel to apply your custom waveform](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_manuals/dl_user_manual/HMC804x_UserManual_de_en_05.pdf).
