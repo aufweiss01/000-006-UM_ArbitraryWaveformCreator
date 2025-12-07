@@ -4,6 +4,9 @@ theme:
   name: material
   language: en
 
+plugins:
+  - pdf-export
+
 nav:
   - Home: index.md
   - Feature description: concArbitraryWaveformCreator.md    
