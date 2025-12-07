@@ -25,6 +25,7 @@ brand: Manufacturer
     - The <wintitle>Arbitrary Waveform Creator</wintitle> opens.
     
 ---
+
 Subsequent tasks:
 - [Create a custom waveform](taskCreateCustomWaveform)
 
