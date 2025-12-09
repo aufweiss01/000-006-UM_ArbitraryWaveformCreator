@@ -1,12 +1,10 @@
 # General
 
-This document has been created by Stephan Schwarz as preparation for the scheduled job interview.
-It represents the author's solution for assessment task **Case 2**.
+This project is a short documentation example created for exercising and demonstration purposes. 
 
-# Contents
+The documentation's content is based on a user manual for the EasyArb application of the [R&S^(R)^ HMC804x series](https://www.rohde-schwarz.com/de/handbuch/r-s-hmc804x-power-supply-bedienhandbuch-handbuecher_78701-78982.html). 
 
-The document contains the following sections:
-- [A short explanation of the Arbitrary Waveform Creator](docs/concArbitraryWaveformCreator.md)
-- [An instruction about how to start the Arbitrary Waveform Creator](docs/taskStartArbitraryWaveformCreator.md)
-- [An instruction about how to create custom waveforms](docs/taskCreateCustomWaveform.md)
-- [An instruction about how to define the custom waveform behavior](docs/taskDefineCustomWaveformBehavior.md)
+The original contents have been:
+- restructured
+- migrated to Markdown
+- exported to HTML and PDF
