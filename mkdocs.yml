@@ -6,38 +6,13 @@ theme:
 
 plugins:
   - search
-  - with-pdf:
-      output_path: document.pdf
+  - pdf-export:
+      combined: true
+      combined_output_path: document.pdf
+      media_type: print
 
-      # Cover
-      cover_title: Arbitrary Waveform Creator
-      cover_subtitle: User Manual
-      author: aufweiss TECHNISCHE DOKUMENTATION
-
-      # Layout
-      cover: true
-      back_cover: true
-      toc_title: Table of contents
-      toc_level: 3
-
-      # Seitenlayout
-      two_columns_level: 0 # Ab welcher Überschriftenebene zweispaltig (0 = aus)
-
-      # CSS für PDF
-      css: stylesheets/pdfStyles.css
-
-      # Rendering-Optionen
-      render_js: true
-      headless_chrome_path: chromium
-
-      # Debug
-      debug_html: false
-      show_anchors: false
-      verbose: true
-
-# CSS für HTML
-# extra-css:
-#  - stylesheets/extra.css
+extra-css:
+  - stylesheets/pdfStyles.css
 
 nav:
   - Home: index.md
