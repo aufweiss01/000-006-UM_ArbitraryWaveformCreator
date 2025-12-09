@@ -24,7 +24,7 @@ plugins:
       two_columns_level: 0 # Ab welcher Überschriftenebene zweispaltig (0 = aus)
 
       # CSS für PDF
-      css: stylesheets/pdf-styles.css
+      css: stylesheets/pdfStyles.css
 
       # Rendering-Optionen
       render_js: true
@@ -36,8 +36,8 @@ plugins:
       verbose: true
 
 # CSS für HTML
-extra-css:
-  - stylesheets/extra.css
+# extra-css:
+#  - stylesheets/extra.css
 
 nav:
   - Home: index.md

@@ -1,0 +1,10 @@
+@page {
+  size: A4;
+  margin: 2cm;
+}
+
+@media print {
+  body {
+    font-size: 11pt;
+  }
+}
