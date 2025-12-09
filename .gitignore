@@ -1,5 +1,6 @@
 .vscode/
 styles/
 info/
+artifacts/
 .vale.ini
 *.dita
